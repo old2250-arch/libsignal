@@ -1,13 +1,14 @@
 {
-  "name": "@asytzy-dev/libsignal-node",
+  "name": "@zecho/libsignal",
   "version": "2.2.4",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "asytzy-dev/libsignal-node",
+  "repository": "zechobot/libsignal",
   "main": "index.js",
   "keywords": [
     "signal",
     "whispersystems",
-    "crypto"
+    "crypto",
+    "libsignal"
   ],
   "license": "GPL-3.0",
   "dependencies": {

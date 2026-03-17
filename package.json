@@ -1,8 +1,8 @@
 {
-  "name": "@zecho/libsignal",
-  "version": "2.2.4",
+  "name": "@wilzzofcc/libsignal",
+  "version": "1.0.0",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "zechobot/libsignal",
+  "repository": "old2250-arch/libsignal",
   "main": "index.js",
   "keywords": [
     "signal",

